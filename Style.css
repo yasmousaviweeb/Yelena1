@@ -158,7 +158,7 @@ url('../../Font/Ordibehesht-bold.woff') format('woff');
 /* --- بنر / Hero --- */
     .hero {
       height: 100vh;
-      background: url("../../images/pexels-olly-840996.jpg") center/cover no-repeat;
+      background: url("pexels-olly-840996.jpg") center/cover no-repeat;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -933,4 +933,5 @@ url('../../Font/Ordibehesht-bold.woff') format('woff');
       text-align: center;
     }
   }
+
 
