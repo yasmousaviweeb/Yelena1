@@ -1,16 +1,16 @@
 /* فونت Oshen */
 @font-face {
   font-family: 'Blue ocean';
-  src: url('../../Font/oshen.woff2') format('woff2'),
-url('../../Font/oshen.woff') format('woff');
+  src: url('oshen.woff2') format('woff2'),
+url('oshen.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 /*فونت Montserrat*/
 @font-face{
 	font-family: 'Montserrat';
-	src: url('../../Font/Montserrat-Bold.woff2') format('woff2'),
-    url('../../Font/Montserrat-Bold.woff') format('woff');
+	src: url('Montserrat-Bold.woff2') format('woff2'),
+    url('Montserrat-Bold.woff') format('woff');
 	font-weight: normal;
     font-style: normal; 
   }
@@ -19,8 +19,8 @@ url('../../Font/oshen.woff') format('woff');
 /* فونت Vazir */
 @font-face {
   font-family: 'Vazir';
-  src: url('../../Font/Vazir-Bold-FD-WOL.woff') format('woff'),
-url('../../Font/Vazir-Bold-FD-WOL.woff2') format('woff2');
+  src: url('Vazir-Bold-FD-WOL.woff') format('woff'),
+url('Vazir-Bold-FD-WOL.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
@@ -28,8 +28,8 @@ url('../../Font/Vazir-Bold-FD-WOL.woff2') format('woff2');
 /* فونت Yekan */
 @font-face {
   font-family: 'Yekan';
-  src: url('../../Font/MT_YekanSquareBoom-Bold.woff') format('woff'),
-url('../../Font/MT_YekanSquareBoom-Bold.woff2') format('woff2');
+  src: url('MT_YekanSquareBoom-Bold.woff') format('woff'),
+url('MT_YekanSquareBoom-Bold.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
@@ -37,8 +37,8 @@ url('../../Font/MT_YekanSquareBoom-Bold.woff2') format('woff2');
 /* فونت IOS */
 @font-face {
   font-family: 'IOS';
-  src: url('../../Font/IOS15Bold.woff2') format('woff2'),
-url('../../Font/IOS15Bold.woff') format('woff');
+  src: url('IOS15Bold.woff2') format('woff2'),
+url('IOS15Bold.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -46,8 +46,8 @@ url('../../Font/IOS15Bold.woff') format('woff');
 /* فونت Ordi */
 @font-face {
   font-family: 'Ordi';
-  src: url('../../Font/Ordibehesht-bold.woff2') format('woff2'),
-url('../../Font/Ordibehesht-bold.woff') format('woff');
+  src: url('Ordibehesht-bold.woff2') format('woff2'),
+url('Ordibehesht-bold.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -933,5 +933,6 @@ url('../../Font/Ordibehesht-bold.woff') format('woff');
       text-align: center;
     }
   }
+
 
 
